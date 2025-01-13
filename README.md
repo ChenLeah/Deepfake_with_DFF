@@ -3,7 +3,7 @@ To learn and investigate about the DeepFake issue, we try to finetune different 
 
 ### note
 This repo contains the partial source code for the final project of the course Neural Networks and Machine Learning.
-Please check out the [final_report.pdf](https://github.com/ChenLeah/deepfakeface_test/blob/master/Final_report.pdf) for the result.
+Please download the [final_report.pdf](https://github.com/ChenLeah/deepfakeface_test/blob/master/Final_report.pdf) for our project result.
 
 ## Folders
 - Llama_code: data preprocessing code for Llama3.2 (WIP)
